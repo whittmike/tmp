@@ -1,3 +1,5 @@
+# --- schema vis
+# --- https://docs.google.com/document/d/1J4GAecgfE5kRxh7FWnrRNbLLcjJqnN9H8nbgZoB884I/edit?usp=sharing
 # =============================================================================
 # import libraries
 # =============================================================================
